@@ -73,3 +73,4 @@ C:\Users\asus\Desktop\CarpetStore\API\bin\Debug\net7.0\Infrastructure.pdb
 C:\Users\asus\Desktop\CarpetStore\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\asus\Desktop\CarpetStore\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\asus\Desktop\CarpetStore\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\asus\Desktop\CarpetStore\API\obj\Debug\net7.0\API.sourcelink.json
